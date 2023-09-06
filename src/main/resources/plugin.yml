@@ -1,0 +1,7 @@
+name: Lucy_PostBox
+version: '${version}'
+main: kr.lucymc.lucy_postbox.Lucy_PostBox
+api-version: 1.20
+load: STARTUP
+commands:
+  우편함:
